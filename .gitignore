@@ -1,0 +1,4 @@
+*.rpt
+*.csv
+patient_*
+data_*
